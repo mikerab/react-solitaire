@@ -1,3 +1,3 @@
-export default function Square() {
-  return <button className="square">X</button>;
+export default function Card() {
+  return <button className="card">X</button>;
 }
